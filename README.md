@@ -1,6 +1,6 @@
 ### Scam language
 
-[Scam language](./assets/scam.jpg)
+<img src="./assets/scam.jpg">
 
 Lox implementation in typscript with additional features.
 
